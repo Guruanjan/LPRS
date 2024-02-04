@@ -1,4 +1,4 @@
-# LPRS
+# License Plate Recognition System (LPRS) 
 
 Automated License Plate and Over-Speed Detection System
 • Designed and developed an automated system that detects vehicle speed and, if over-speeding occurs, 
